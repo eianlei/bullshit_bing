@@ -38,5 +38,5 @@ The script prints a formatted 5x5 table of randomly selected words from the word
 
 ## File Structure
 - `bullshit.py` - Main script
-- `bullshit.txt` - Word list (AI/ML terminology)
+- `bullshit.txt` - Example Word list (here buzzwords of AI/ML terminology)
 - `README.md` - This file
